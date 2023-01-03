@@ -40,7 +40,7 @@
 </p>
 
 <h2 align="left">Most Used Lauguages:</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakkarink&show_icons=true&locale=en&layout=compact&theme=dark" alt="JakkarinK" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakkarink&show_icons=true&locale=en&layout=compact&theme=dark" alt="jakkarin" /></p>
 
 <!--
 **JakkarinK/JakkarinK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
