@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at <br> [https://github.com/Fighter05?tab=repositories](https://github.com/Fighter05?tab=repositories)
+- 👨‍💻 All of my projects are available at <br> [https://github.com/JakkarinK?tab=repositories](https://github.com/JakkarinK?tab=repositories)
 
 - 📫 How to reach me **earth1277@gmail.com**
 
