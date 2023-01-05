@@ -8,6 +8,8 @@
 
 - 📫 How to reach me **earth1277@gmail.com**
 
+- 😄 My portfolio [https://jakkarink.github.io/Portfolio-React/](https://jakkarink.github.io/Portfolio-React/)
+
 <h2 align="left">Contact</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/jakkarink/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
