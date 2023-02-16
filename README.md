@@ -51,9 +51,8 @@
   <a href="/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="msoffice"/> </a>
 </p>
 
-<h2 align="left">Tools</h2>
 <p align="left">  
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green" alt="skills"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakkarinK&theme=blue-green" alt="skills"/> </a> 
 </p>
 <!--
 **JakkarinK/JakkarinK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
