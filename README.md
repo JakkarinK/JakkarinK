@@ -1,6 +1,6 @@
 <h1> Howdy! 👋, I'm Earth </h1>
 <h4 align="center">Hello, My name is Jakkarin Kerdthaidee. You can call me "Earth". 
-  <br>I'm 3rd-year Software Engineering student, at Thammasat University.</h4>
+  <br>I'm 4th-year Software Engineering student, at Thammasat University.</h4>
 
 - 🌱 I’m currently learning **ReactJS**
 
