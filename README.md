@@ -73,11 +73,3 @@
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
   <img src="https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" />
 </p>
-
----
-
-<h2 align="left">GitHub Statistics</h2>
-
-<p align="left">  
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakkarinK&theme=blue-green" alt="skills"/> </a> 
-</p>
