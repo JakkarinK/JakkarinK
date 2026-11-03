@@ -78,11 +78,6 @@
 
 <h2 align="left">GitHub Statistics</h2>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JakkarinK&show_icons=true&theme=blue-green" alt="github stats" />
+<p align="left">  
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakkarinK&theme=blue-green" alt="skills"/> </a> 
 </p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakkarinK&layout=compact&theme=blue-green" alt="top languages" />
-</p>
-
